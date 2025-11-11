@@ -1,29 +1,36 @@
-# 🎮 My Game Store Website
+# My Site
 
-A dynamic and responsive web application created for a fictitious video game seller.  
-This project demonstrates my ability to design, develop, and connect front-end and back-end technologies using PHP and MySQL.
+A dynamic website project for a fictitious game seller.
 
 ---
 
 ## 💡 Features
-- Dynamic PHP pages connected to a MySQL database  
-- Responsive layout using HTML, CSS, and JavaScript  
-- Local development environment powered by MAMP  
-- Simple, clean user interface for browsing game titles  
+- Dynamic PHP pages connected to a MySQL database
+- Responsive layout using HTML, CSS, and JavaScript
+- Local development environment powered by MAMP
+- Simple, clean user interface for browsing game titles
 
 ---
 
 ## 🛠️ Technologies Used
-- PHP  
-- HTML / CSS / JavaScript  
-- MySQL  
-- MAMP (Local Server Environment)  
+- PHP
+- HTML / CSS / JavaScript
+- MySQL
+- MAMP (Local Server Environment)
 
 ---
 
 ## 🚀 How to Run
 To clone and view this project locally:
+
 ```bash
 git clone git@github.com:Naoki-code-ai/my_site.git
+cd my_site
+# Start your local server (MAMP) and open index.php in a browser
+```
 
-git clone git@github.com:Naoki-code-ai/my_site.git
+---
+
+## 👤 Author
+**Naoki Takamatsu**  
+Master’s student in Computing at Sunderland University
